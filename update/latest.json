@@ -1,0 +1,21 @@
+{
+  "version": "1.0.1",
+  "x64": {
+    "parts": [
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.0.1-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.0.1-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.0.1-x64.exe.gz.part3"
+    ],
+    "sha256": "a2f44cdab6c8548edd40398186b7939d71afce51f392ab1850e7b9dce09fb2f3",
+    "sig": "6lbjICrbQdkVQEJbsExd/NxH+cP49C3vVmsDo100px76Cepk0K+ZHkqWyKF9Py6mA3TVENZC7RnXerKlADUVBg=="
+  },
+  "x86": {
+    "parts": [
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.0.1-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.0.1-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.0.1-x86.exe.gz.part3"
+    ],
+    "sha256": "9b0edd67b378f38ee1455962ddb5dc7c144b6042a26787216cfee5ad11fb9c6d",
+    "sig": "nCwEWqcUNrBRxNFzBJDYzoQaG9Ykn8zmbwL00h60ihMWkDMcujQHmXww0yXiU6nIZ0RTaDA33TuP91HxY7ygDw=="
+  }
+}
