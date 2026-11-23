@@ -1,21 +1,21 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.1.0-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.1.0-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.1.0-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.2.0-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.2.0-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.2.0-x64.exe.gz.part3"
     ],
-    "sha256": "433f4c9ac8f802c6b7e9b521936f1545ca4b563b85a47111a51bd0bd656c8f04",
-    "sig": "mHXYqK48GdYsBhrHXsco0uMry46IzyygJmenAjkDsdHfalOHPv69leH8Ls9wPja2j09J4ZO6AsKedPZN8JK+Ag=="
+    "sha256": "4eb833bb6b8c5d24073863ad64c670568b936748ea5c4df7da37d7ca3193e148",
+    "sig": "LxwUubE1Vg0F9ybR/fR+HXAAtn4BRg8tgi3RNPAfdFLXzoxwNUMgCDh5LsnUWWp6RK8+b8U70DjNLphrZuBNDQ=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.1.0-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.1.0-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.1.0-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.2.0-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.2.0-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.2.0-x86.exe.gz.part3"
     ],
-    "sha256": "1cd322fd4889ff8a44137fca60e6214b5208f541316c3c6b09f6653cc0a9f20b",
-    "sig": "8P67klmd0wPV2hqrIY/h8pVOWB0rHbzSuzj4DdNMI60tGWsqCcMr84yb652IgkXqCGfSHT4sC2pj7z3E6S/FDg=="
+    "sha256": "6f1f7664b27deff3c84977a8263e23c5e068b7f4ea9a746c97f0b66115b7f9bc",
+    "sig": "Xa4O3Ag0nUcUl0q7tB3xFQusc+lbUK6PT46xO0nzjkqBGCFlf5+UwPmZV/wRJNVwVt24bFNPwAF2oufsarqaBA=="
   }
 }
