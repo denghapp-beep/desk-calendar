@@ -1,21 +1,21 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.0-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.0-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.0-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.1-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.1-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.1-x64.exe.gz.part3"
     ],
-    "sha256": "2b70b08c47c602ff62589d95040d8ac0fa28011de7782186f069a7a21167363e",
-    "sig": "J1yjRpw/uaePeAo81L1o8J2G09NFWUQEO/86LbneN1xAd/Yxx9Ajf22tmWfE+czp7r//RhkzLFOy69Esx4pTDw=="
+    "sha256": "2a44b7c7ff2122a60d6c8df409fb4e8d9d08cf1bd4bd90190236792362e9c360",
+    "sig": "h5QoZoajfpBE+6IBJ39KkY03gVSfqRMtM8EaaHG2uU9JV28IVya3jGexFL4f3NYCtZBH3xqwSfJgeBWuNWxGDw=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.0-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.0-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.0-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.1-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.1-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.7.1-x86.exe.gz.part3"
     ],
-    "sha256": "14ae4d5214d5ffc6ff428fca1da4549bb6c7cee5e0d40fb2e56dd151d0c663b1",
-    "sig": "CRtmM7GDmrker1OCmQlLilAkWNnPIkDhXFszWg0sHgaij1p4sM/z4wlmcKf6JC9RUB5FLAVTXO5RY1ETL1CPAQ=="
+    "sha256": "f493c9d8311242813e0d4dce6f8bb3486fb923368dc61bd6e2043f23dc33673a",
+    "sig": "UJn1A+w0YKmtO2MThhXpYTbB2mn7OTb3pxM+1itp6m8MJNffpW8Ow65gcuddXyHnpbNkXh5KIcG+yk3geXOtAQ=="
   }
 }
