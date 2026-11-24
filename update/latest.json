@@ -1,21 +1,21 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.6.0-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.6.0-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.6.0-x64.exe.gz.part3"
     ],
-    "sha256": "0d6a5d36da047f965640925bb4d85b83bfdbad53a41dafb4f9963528c09f803e",
-    "sig": "QinOjVOvGxM6feV/LiDpr2Mkk2OzFNQja1Fx2dqcZGFfUIBKUnxb2xbYcORF6Rbrw28ktB72uCrjbP/RV/mDDA=="
+    "sha256": "aa56658c9bac190745d0eb1c7b8e3f8ac18ab46d80de3c48132f1a8997cd4b32",
+    "sig": "F9K/K+qkBKdNkdUdmS7rEUxolcxqhk5UssLDor26o/zyfeV2YU9mXRFitwRzZHW54+OpvNZEwUY41HMkZaodBw=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.6.0-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.6.0-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.6.0-x86.exe.gz.part3"
     ],
-    "sha256": "3644d3f76b1a7dfef3370dcce28d73d27c7d3a3ae3ab7f779f6962e503c9c9a1",
-    "sig": "tImMv21AcYkQe4LhmIR+17vPv7hnNEzxKIbqeD/bzzFq6SnTjsM0oRYC6N/rYRzJONbmSXgXDx/6p69ukLYtBg=="
+    "sha256": "a30f431c1214256d324728ee8e2cb66d3c008a131529bdae0eaa470787b96005",
+    "sig": "gkqniDbl4zSwhBS3xHgrh64foHoNV5aWpQgUgCibp+/JrvAso7ZRDQ6dQlV575qJCXMTTmtMxr/oG4bLPbJIDg=="
   }
 }
