@@ -1,21 +1,21 @@
 {
-  "version": "1.4.1",
+  "version": "1.5.0",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.4.1-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.4.1-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.4.1-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x64.exe.gz.part3"
     ],
-    "sha256": "598daab3c3d4087de2bc4652066b60508123b043027385bf9215b597461869c3",
-    "sig": "34wUX1+kY3kPRol7qjsH1u8+6nZ48uzn5BvW/AOmLQO95F8Nw7WhAOx9qevGFGE3eF+9OSvf8RqsOnu+pTSECw=="
+    "sha256": "0d6a5d36da047f965640925bb4d85b83bfdbad53a41dafb4f9963528c09f803e",
+    "sig": "QinOjVOvGxM6feV/LiDpr2Mkk2OzFNQja1Fx2dqcZGFfUIBKUnxb2xbYcORF6Rbrw28ktB72uCrjbP/RV/mDDA=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.4.1-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.4.1-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.4.1-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.5.0-x86.exe.gz.part3"
     ],
-    "sha256": "7962889fb48b19e78d5908e41f639bcd8bd4d1f850b9abf36a8584a4f520ab9d",
-    "sig": "Dbc6D4uRx/VrjsL3zQ5t0xf/vmRM7Xr/2piBVdYUlnSgIsNGsV72g265udH5euW+Bna5Y0MJvElqrvCE9QthAw=="
+    "sha256": "3644d3f76b1a7dfef3370dcce28d73d27c7d3a3ae3ab7f779f6962e503c9c9a1",
+    "sig": "tImMv21AcYkQe4LhmIR+17vPv7hnNEzxKIbqeD/bzzFq6SnTjsM0oRYC6N/rYRzJONbmSXgXDx/6p69ukLYtBg=="
   }
 }
