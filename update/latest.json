@@ -1,21 +1,21 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.0-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.0-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.0-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.1-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.1-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.1-x64.exe.gz.part3"
     ],
-    "sha256": "3e019ddcda5307aa3d5962a02f64b5f27a9144cbf61f5b78bd916c92a599f3e4",
-    "sig": "rVBYw7IV8/Hms6k4YJ3XqgvosbFK4w8f2IOZKcfg2/3dGX4XNUVHruGgQwmi5XE11OCX6A1LuzNCCizx46oEDQ=="
+    "sha256": "342dd44755129f79410d5380db04a5afdb6912023cd8ef703fdb7c839cd0228f",
+    "sig": "w5DyFIfiOX+EzIr8Adn6/tOHVhibsAuneWxmpAvlmBS57pcDHgdSeWqiroSoMEDvHXXjm5iZZq6nZbe6e3Z3CQ=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.0-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.0-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.0-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.1-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.1-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.3.1-x86.exe.gz.part3"
     ],
-    "sha256": "5b311513e4ad97e5ad86a059c5757f9e9ecb508a80047e62974a07108c65faf3",
-    "sig": "0PCyUJpMOHHHtn+amMTJiGZ96y7moK4qhymoL/FwdNQFzN7jmsMv3tQi0dPBwWt3HnN87zUoWKOzpYt07oMcBg=="
+    "sha256": "f315b7ee92f91577cb2427933be3505c612ff3851bb82893fa9187363f247fe5",
+    "sig": "cCOhwZwL4lKgGoCH9wEuj0IPm8N5CNnYBurEWyBX283BUWIx9ws6SHn9duOl1wDlTeHADi/S0BVNmU0sVB9UDg=="
   }
 }
