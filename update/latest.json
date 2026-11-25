@@ -1,21 +1,21 @@
 {
-  "version": "1.8.1",
+  "version": "1.9.0",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.8.1-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.8.1-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.8.1-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.9.0-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.9.0-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.9.0-x64.exe.gz.part3"
     ],
-    "sha256": "f3bf2e03f202fa072e3a3ae0f58c19ef4923a19e5cebee8ed2400d85a3991c23",
-    "sig": "CLnDXokgqoHAhgiqKdVi8l7Cv5T2i4z3PDIk2+Z5p9oiHbvj0h5a1kVpHXNMZm66f5bX7Qpr5xmehRMtXsoiCQ=="
+    "sha256": "a420f5694d3314c7527505318486596c1f3e2c66634ee1e8c816bb8f8f3c7d3f",
+    "sig": "kn1bXN5sQVE7TnmwSSvZhF0kHy4yHDddAgmmgJQ3VGkBH24hZmh/hDdoW+HeNchCweGuMD98xEd51bHW+cZZDQ=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.8.1-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.8.1-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.8.1-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.9.0-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.9.0-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.9.0-x86.exe.gz.part3"
     ],
-    "sha256": "933f05639a47cecb28edb3b719552520a22869035ac0c28b76e72336bd5fa230",
-    "sig": "qGQ5XpaWS4ltEauxGO7/cB+w/eGkbwnchDHkPwgyDyv4iejlD4D+A76erLPKQn8gTkER9XPSmw8jS1zOOhtEAg=="
+    "sha256": "8863c15493428ab0dabab22ac20f9ff567e22e8156aa78fe4e7e0726360a9cfb",
+    "sig": "qV/TAXY74B8CaZpZ0bSd8gub1p6uNV3gtoGk983vjSg+1Q9QCJhxBc3Y4u8LuQ2Psnqr3SKK8nGqdlTQeEMYAQ=="
   }
 }
