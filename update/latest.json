@@ -1,21 +1,21 @@
 {
-  "version": "1.14.0",
+  "version": "1.15.0",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.14.0-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.14.0-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.14.0-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x64.exe.gz.part3"
     ],
-    "sha256": "838d3b5737494f2499bc1e0f145385d4b90c057f4c6d7df066b210a842fff8d3",
-    "sig": "KTzG+//kLvX/oY9/zhzDz9IkbaVcDKbrsaHkgPQ+GBsVSZu9aaqEuaF3uIAeSHEAT83G9kw4PtIH6LHU5JOaBg=="
+    "sha256": "96a478da14a5fbcdbfb896b6ada502ebed43edd5aa90e78f229b667b1625692e",
+    "sig": "jYLj4Eqgq6ZgEIu1Pqtym3SciYJDv4FmNtUSC+WS/MJrQZFrR7I2q7Xn97GzDprl9xK5VLMiOyvsuoTQkiraDA=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.14.0-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.14.0-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.14.0-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x86.exe.gz.part3"
     ],
-    "sha256": "6e5d3304b4a1fbb53bf3ae5fc4944bb40521e547422c553850f2ee7fe02d0a6e",
-    "sig": "hoYqNLeM4spTc2RGNtfHjeQyrGnmKr4pVaJkBvwqTwXqRkO7KLfhKgXigSXXkd3IR61GWic3dim2x5HsqHC2AA=="
+    "sha256": "52349b77723a30fc49d137a4691f7a51a41cc169b14bddf3d57b3f5a2ad5590e",
+    "sig": "5pcy3QwCC0S/J+PT1QK30kpiLrk/RD8FTimrVaFajC6sDCjE2BffNMd5OV2rIFDDYYRwirLLOw5iM0AQ1VO4BQ=="
   }
 }
