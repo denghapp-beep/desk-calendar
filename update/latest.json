@@ -1,21 +1,21 @@
 {
-  "version": "1.15.3",
+  "version": "1.15.4",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.3-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.3-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.3-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x64.exe.gz.part3"
     ],
-    "sha256": "2daa62fbf3aef892d33e595199647fb1d9930045de688653d85dbaf2c5fe9a07",
-    "sig": "hI8iGDU68kumfW9o+r5Z05waO2wP5+xjEVhUK2GdNd3w2nKHGdoFpzfOOA0p75Trin3SiCcEwM3qtL4Bd6UuAw=="
+    "sha256": "c227da64bce7463bc7c3315158460f4a3a1e99d4ff9290a405d5059e61f5e6cc",
+    "sig": "2X0ar6abs8sFC4aThBEu3Vj8OpRWdd4FpqEzs6vIDuOmU2RfCfF2sWfGNejzEZL1LTNK9FNZs4UMceTuOv+kCQ=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.3-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.3-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.3-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x86.exe.gz.part3"
     ],
-    "sha256": "1d7578892756107b60dafc781307af6366c00e3f4386ff8aad28ed9a21d3f902",
-    "sig": "z8WSaxQLs+KBciq/OgMG2pWJSUEV/zy2GCIUIfkyKkQzxA75C+pzhP/YxNd3weBWBKN6MZX0yqkA7y8q2jZrAg=="
+    "sha256": "6d8cac08dd8abb09890611afd0836fae1a19395736b41c9ec825bcd8f3eb8e85",
+    "sig": "t46iNV8SJh86KfdVnXkqZyRt3DiaCKq7RgxFtdQ/5kKzeseaadMWxwmZm95n+KyWEka2IBsf9qTErXVtJrUpAw=="
   }
 }
