@@ -1,21 +1,21 @@
 {
-  "version": "1.15.0",
+  "version": "1.15.1",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x64.exe.gz.part3"
     ],
-    "sha256": "96a478da14a5fbcdbfb896b6ada502ebed43edd5aa90e78f229b667b1625692e",
-    "sig": "jYLj4Eqgq6ZgEIu1Pqtym3SciYJDv4FmNtUSC+WS/MJrQZFrR7I2q7Xn97GzDprl9xK5VLMiOyvsuoTQkiraDA=="
+    "sha256": "281c9a3f37c3647f7100ade8824c0c1fa1d3b6a4024dd9d59c4d1c4e45f4d159",
+    "sig": "QUqlwvaIgg8vqcQJ/iUqbKIa7/HAjdYuVw3ZZsDI8JkYPjfzkx/IIQDDEjmGIGAr/gKhqcY5Ef4lJ2Q6BE0gCw=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.0-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x86.exe.gz.part3"
     ],
-    "sha256": "52349b77723a30fc49d137a4691f7a51a41cc169b14bddf3d57b3f5a2ad5590e",
-    "sig": "5pcy3QwCC0S/J+PT1QK30kpiLrk/RD8FTimrVaFajC6sDCjE2BffNMd5OV2rIFDDYYRwirLLOw5iM0AQ1VO4BQ=="
+    "sha256": "6a9b217b279a50e5117b78cedcf91099ddb75080bbac5f64a0c406ebb0eba08e",
+    "sig": "QwLSrW917ow/md8HKj4qTmQHuRw1ogLBBUcIU9kd5YIMkd2jOTatuFF/GDKZpChOTg3h4yxWX4nDShzjnFwwBg=="
   }
 }
