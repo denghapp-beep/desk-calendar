@@ -1,21 +1,21 @@
 {
-  "version": "1.15.1",
+  "version": "1.15.2",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.2-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.2-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.2-x64.exe.gz.part3"
     ],
-    "sha256": "281c9a3f37c3647f7100ade8824c0c1fa1d3b6a4024dd9d59c4d1c4e45f4d159",
-    "sig": "QUqlwvaIgg8vqcQJ/iUqbKIa7/HAjdYuVw3ZZsDI8JkYPjfzkx/IIQDDEjmGIGAr/gKhqcY5Ef4lJ2Q6BE0gCw=="
+    "sha256": "ff2ba39c731af85b746c6a477d19e053d24665c6b64aebc2cc2ba10d016d7465",
+    "sig": "XySjT7J0FamB1IORlYiF5W41xYsL03eNbmzvCP3X7UtLcKeORWBB7R9Q4xncXDlbDn59zNCrjDzUm/RscuC6DQ=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.1-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.2-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.2-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.2-x86.exe.gz.part3"
     ],
-    "sha256": "6a9b217b279a50e5117b78cedcf91099ddb75080bbac5f64a0c406ebb0eba08e",
-    "sig": "QwLSrW917ow/md8HKj4qTmQHuRw1ogLBBUcIU9kd5YIMkd2jOTatuFF/GDKZpChOTg3h4yxWX4nDShzjnFwwBg=="
+    "sha256": "406a80043b93d74af07994e7b1f882aff704ddb4a679e0fbafece6ac6b74a7b2",
+    "sig": "NManltVAb19bnymHq+u3q9CDCI4tRH0WVRo+c3eL2yJgUFWKwvs5/ohoJ5w2G9yJO/HHtwL3ZVRhiM3rhEGTDw=="
   }
 }
