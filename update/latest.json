@@ -1,21 +1,21 @@
 {
-  "version": "1.15.5",
+  "version": "1.15.6",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.6-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.6-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.6-x64.exe.gz.part3"
     ],
-    "sha256": "f46ba73a87488b5d20cde6c26cc87e0f3b2064ae93c8a9670a7d122a99b5d594",
-    "sig": "7gqErEmUtJGOdv0LIeKF7fWOd1hPZrhmhPtw7Y/VRp+5mHBTXTXID0Yk3qvd1nyTiW8WQyEH+d1nO91J2pGpBQ=="
+    "sha256": "fb104116a85d32cf61a3f775986e5959d1e1d2a4a59da5ff32dba9d581c78882",
+    "sig": "fOeJiQSmIhChw3QvFAtNex9SrF2nhyZbjVe+okuf+VYI3bfWsCNQ6GzcTikcftuQi4Z1AgMkqeyKbpPKal5jAw=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.6-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.6-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.6-x86.exe.gz.part3"
     ],
-    "sha256": "f59fb9520e246c906e646059386268f110c99a7c6902d3c92b70cb437c592760",
-    "sig": "tVzkpJv4a0hGvfTdk5kWoNYaWWHCLieWSfbO494fB9Y1DnN+lRpX3WqQB5kP9Ww6U9LTwOGBDsZboZ7Ikk5uCw=="
+    "sha256": "cff0e390f38a5a0346a7fe52d24865ef6c8edcc394f8c68418939e61ddd5c30d",
+    "sig": "RRLENfyj4qHTrRniMdNFo61KKDe2Px55WW7qDzmWiPby9h5slNffuzQb+Nt2mQ5ubLee8mPn9AE0GgrgqzwYAA=="
   }
 }
