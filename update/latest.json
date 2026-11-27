@@ -1,21 +1,21 @@
 {
-  "version": "1.15.4",
+  "version": "1.15.5",
   "x64": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x64.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x64.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x64.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x64.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x64.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x64.exe.gz.part3"
     ],
-    "sha256": "c227da64bce7463bc7c3315158460f4a3a1e99d4ff9290a405d5059e61f5e6cc",
-    "sig": "2X0ar6abs8sFC4aThBEu3Vj8OpRWdd4FpqEzs6vIDuOmU2RfCfF2sWfGNejzEZL1LTNK9FNZs4UMceTuOv+kCQ=="
+    "sha256": "f46ba73a87488b5d20cde6c26cc87e0f3b2064ae93c8a9670a7d122a99b5d594",
+    "sig": "7gqErEmUtJGOdv0LIeKF7fWOd1hPZrhmhPtw7Y/VRp+5mHBTXTXID0Yk3qvd1nyTiW8WQyEH+d1nO91J2pGpBQ=="
   },
   "x86": {
     "parts": [
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x86.exe.gz.part1",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x86.exe.gz.part2",
-      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.4-x86.exe.gz.part3"
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x86.exe.gz.part1",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x86.exe.gz.part2",
+      "https://denghapp-beep.github.io/desk-calendar/update/DeskCalendar-1.15.5-x86.exe.gz.part3"
     ],
-    "sha256": "6d8cac08dd8abb09890611afd0836fae1a19395736b41c9ec825bcd8f3eb8e85",
-    "sig": "t46iNV8SJh86KfdVnXkqZyRt3DiaCKq7RgxFtdQ/5kKzeseaadMWxwmZm95n+KyWEka2IBsf9qTErXVtJrUpAw=="
+    "sha256": "f59fb9520e246c906e646059386268f110c99a7c6902d3c92b70cb437c592760",
+    "sig": "tVzkpJv4a0hGvfTdk5kWoNYaWWHCLieWSfbO494fB9Y1DnN+lRpX3WqQB5kP9Ww6U9LTwOGBDsZboZ7Ikk5uCw=="
   }
 }
